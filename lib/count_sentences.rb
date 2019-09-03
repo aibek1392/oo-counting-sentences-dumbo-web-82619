@@ -3,6 +3,8 @@ require 'pry'
 class String
 
   def sentence?
+    if self.sentence == true 
+      
     
   end
 
